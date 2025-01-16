@@ -28,8 +28,8 @@ Follow these steps to set up and run the project:
 
 1. Clone the repository and navigate to the project directory:
     ```bash
-    git clone https://github.com/your-username/multi-pdf-chatbot.git
-    cd multi-pdf-chatbot
+    git clone https://github.com/shefali00/Multi-PDF-Chatbot.git
+    cd Multi-PDF-Chatbot
     ```
 
 2. Create and activate a virtual environment:
