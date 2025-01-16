@@ -76,13 +76,3 @@ Follow these steps to set up and run the project:
 4. **Document Indexing and Search**: Uses FAISS to store and perform similarity searches on document embeddings.
 5. **Conversational Chain**: Processes user queries with a LangChain QA chain and generates context-aware responses.
 
----
-
-## Project Structure
-
-.
-├── app.py               # Main application script
-├── requirements.txt     # Python dependencies
-├── .env                 # Environment variables (not included in the repo)
-├── README.md            # Project documentation
-└── faiss_index          # FAISS vector store (generated after processing PDFs)
